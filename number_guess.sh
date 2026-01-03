@@ -1,4 +1,5 @@
 #!/bin/bash
+/NUMBER GUESSING GAME
 
 PSQL="psql --username=freecodecamp --dbname=number_guess -t --no-align -c"
 
